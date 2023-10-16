@@ -1,2 +1,22 @@
-# treatment_scheduler
-This project aims to reduce the gaps in medical treatment details, helping users to remember and record every step of the treat in order to achieve successfully the expected treatment
+# Agendador de tratamientos medicos
+
+  Este proyecto pretende ayudar a empresas del sector de la salud que ayuden a pacientes con tratamientos diversos a llevar un control  del mismo, permitiendo recordad y grabar el seguimiento de dichos tratamientos para lograr una optima empleabilidad de los tratamientos y asi beneficiar al paciente, al cuidador y a la empresa que emplee este servicio.
+
+  ## Requerimientos  Funcionales
+
+  1. Debe ser capaz de crear nuevos tratamientos que involucren detalles como:
+     - Horario del tratamiento.
+     - Diferentes tipos de medicamentos
+     - Dosis del medicamento.
+     - Numero de lote del medicamento.
+     - Descripcion de la aplicacion del medicamento.
+  2. Debe poder notificar al usuario el momento del tratamiento.
+  3. Debe facilitar informacion de la aplicacion del tratamiento.
+  4. Debe **motivar** al usuario a registrar los detalles de la aplicacion del tratamiento.
+  5. Debe notificar al usuario cuando deba reabastecer medicamentos cuando el tratamiento se este agotando.
+  6. Debe registrar el comportamiento del paciente a medida que avanza en el tratamiento.
+  7. Debe ser capaz de manejar mas de un tratamiento por paciente.
+  8. Debe ser capaz de manejar varios perfiles(pacientes) simultaneamente.
+  9. Debe permitir la administracion de los tratamiento a traves de un nivel de acceso elevado
+  10. Debe permitir visualizar el seguimiento del tratamiento ingresado por el usuario o cuidador.
+  11. Debe exigir la documentacion del cambio de la informacion del registro de segguimiento del paciente.
